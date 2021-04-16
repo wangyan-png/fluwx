@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
     super.initState();
     _initFluwx();
   }
-
+/////test
   _initFluwx() async {
     await registerWxApi(
         appId: "wxd930ea5d5a258f4f",
